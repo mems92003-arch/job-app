@@ -10,8 +10,8 @@
     "license": "MIT",
     "repositories": [
         {
-            "type" : "path",
-            "url": "../job-shared"
+            "type" : "vcs",
+            "url": "https://github.com/mems92003-arch/job-shared.git"
         }
     ],    
     "require": {
